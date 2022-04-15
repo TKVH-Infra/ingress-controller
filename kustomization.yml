@@ -6,4 +6,3 @@ resources:
 patches:
   - ingress-controller-patch.yml
   - ingress-controller-svc-patch.yml
-  - ingress-controller-cm-patch.yml
